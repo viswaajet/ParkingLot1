@@ -2,8 +2,6 @@
 import java.util.*;
 
 class Vehicle{
-
-   
     // public enum VehicleTypes
     // {
     //     HATCHBACK,
